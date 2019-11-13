@@ -1,16 +1,40 @@
-import UIKit
-
-
-/* 1 - Define an array with the following items 'apple','grape', 'bacon', 'steak', 'worm', 'dirt'.
-    Assign the array to a variable called food. Loop through the array and print 'fruit' if the outcome is fruit,
-    print 'meat' if the outcome is meat otherwise print 'yuck'.
-*/
-
-
-
-
-
-
+//import UIKit
+//
+//
+///* 1 - Define an array with the following items 'apple','grape', 'bacon', 'steak', 'worm', 'dirt'.
+//    Assign the array to a variable called food. Loop through the array and print 'fruit' if the outcome is fruit,
+//    print 'meat' if the outcome is meat otherwise print 'yuck'.
+//*/
+//var arrayFood = ["apple" , "grape" , "bacon", "steak" , "worm", "dirt"]
+//
+//for food in arrayFood {
+//    if food == "apple" {
+//        print("fruit")
+//    } else {
+//        if food == "grape" {
+//            print("fruit")
+//        } else {
+//            if food == "bacon" {
+//                print("meat")
+//
+//        } else {
+//            if food == "steak" {
+//                print("meat")
+//        } else {
+//                if food == "worm" {
+//                    print("yuck")
+//                } else {
+//                    if food == "dirt" {
+//                        print("yuck")
+//                    }
+//                }
+//
+//                }
+//
+//
+//        }
+//        }}
+//}
 
 
 
@@ -23,17 +47,17 @@ import UIKit
   HINT: Save the result in a variable called finalString.
  */
 
-var sounds = ["super", "cali", "fragil", "istic", "expi", "ali", "docious"]
+//var sounds = ["super", "cali", "fragil", "istic", "expi", "ali", "docious"]
 
-
-
-
-
-
-
-
-
-
+//var a = "super"
+//var b = "cali"
+//var c = "fragil"
+//var d = "istic"
+//var e = "expi"
+//var f = "ali"
+//var g = "docious"
+//var finalString = a+b+c+d+e+f+g
+//
 
 
 
@@ -42,7 +66,14 @@ var sounds = ["super", "cali", "fragil", "istic", "expi", "ali", "docious"]
  Note: x should be the number in case
  */
 
-
+//        for item in 20...40 {
+//            if item % 2 == 0 {
+//                print("number \(item) is even")
+//            }
+//            else {
+//                print("number \(item) is odd")
+//            }
+//        }
 
 
 
@@ -56,10 +87,22 @@ var sounds = ["super", "cali", "fragil", "istic", "expi", "ali", "docious"]
 
  Note: x should be sustituted by the age while looping
 */
-
-var ages = [12, 34, 65, 18, 17, 67, 25]
-
-
+//
+//var ages = [12, 34, 65, 18, 17, 67, 25]
+//
+//
+//for age in ages {
+//    if number < 18...65 {
+//        print("at age x you are old enough to drink")
+//    } else {
+//        if number = 0...17 {
+//            print("you are not old enough to drink")
+//        } else {
+//            if age >= 66 {
+//                print("you are too old to drink")
+//            }
+//        }
+//    }
 
 
 
@@ -74,5 +117,24 @@ var ages = [12, 34, 65, 18, 17, 67, 25]
  Hint: save the results in two varibles, one for even and another for odd numbers
  */
 
-var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+//var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
+//var oddnumbers = 0
+//    var evennumbers = 0
+//
+//    for number in numbers {
+//        if number % 2 == 0{
+//             evennumbers += 1
+//        }
+//        else {
+//            oddnumbers += 1
+//        }
+//    }
+//print(oddnumbers)
+//
+//        } else {
+//            if number % 2 == 1 {
+//                print(evennumbers)
+//            }
+//
+//        }
